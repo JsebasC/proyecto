@@ -9,6 +9,5 @@ RSpec.describe ArticlesController, type: :controller do
     end
   end
 
-    def new
-    end
+    
 end
